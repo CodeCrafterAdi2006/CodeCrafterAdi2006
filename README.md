@@ -41,48 +41,74 @@
 > Focused on real-world software engineering, clean system architecture, and shipping production-grade code.  
 > *Engineering & Impact > Certificates.*
 
----
-
 <br />
 
 <div align="center">
+  <table width="100%">
+    <tr>
+      <td align="left">
 
-```text
- ⚡ CURRENTLY BUILDING & FOCUS AREAS
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ▸ Autonomous AI Agents & Multi-Agent Graph Workflows
-  ▸ High-Performance Async Backend APIs & Data Pipelines
-  ▸ LLM-Powered Developer Tools & Automation Infrastructure
-  ▸ Open Source Systems & Hacker Experiments
-```
+### ◈ CURRENTLY BUILDING & EXPLORING
 
+<br />
+
+#### 🟣 AI ENGINEERING
+> **LLM Applications** · Practical AI Systems · Intelligent Developer Tools
+
+<br />
+
+#### 🟣 AI AGENTS
+> **Agentic Workflows** · Tool Use · Multi-Agent Systems · Autonomous Automation
+
+<br />
+
+#### 🔵 WEB DEVELOPMENT
+> **Full-Stack Applications** · Scalable Backend APIs · Interactive Web Experiences
+
+<br />
+
+#### 🟢 2D / 3D CREATIVE DEVELOPMENT
+> **Creative Coding** · 3D Shader Experiments · Interactive Visual Worlds
+
+<br />
+
+#### 🟢 OPEN SOURCE
+> **Learning in Public** · Code Experimentation · Active Contributions
+
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
 
 <div align="center">
+  <table width="100%">
+    <tr>
+      <td align="left">
 
-```text
+<pre>
  $ whoami
    CodeCrafterAdi2006
 
  $ current_status
    STATUS: ONLINE // SHIPPING CODE
 
- $ core_stack
-   PYTHON  ·  C++  ·  JAVASCRIPT  ·  FASTAPI  ·  PYTORCH  ·  LANGGRAPH
+ $ exploring
+   AI ENGINEERING  ·  AI AGENTS  ·  WEB DEV  ·  2D/3D  ·  OPEN SOURCE
 
  $ engineering_philosophy
    BUILD THINGS THAT WORK. SHIP FAST. ITERATE CONSTANTLY.
+</pre>
 
- $ next_milestone
-   BUILDING SOMETHING USEFUL
-```
-
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
 
 ---
+
 
 
