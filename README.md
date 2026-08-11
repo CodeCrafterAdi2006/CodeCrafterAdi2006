@@ -43,3 +43,46 @@
 
 ---
 
+<br />
+
+<div align="center">
+
+```text
+ ⚡ CURRENTLY BUILDING & FOCUS AREAS
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ▸ Autonomous AI Agents & Multi-Agent Graph Workflows
+  ▸ High-Performance Async Backend APIs & Data Pipelines
+  ▸ LLM-Powered Developer Tools & Automation Infrastructure
+  ▸ Open Source Systems & Hacker Experiments
+```
+
+</div>
+
+<br />
+
+<div align="center">
+
+```text
+ $ whoami
+   CodeCrafterAdi2006
+
+ $ current_status
+   STATUS: ONLINE // SHIPPING CODE
+
+ $ core_stack
+   PYTHON  ·  C++  ·  JAVASCRIPT  ·  FASTAPI  ·  PYTORCH  ·  LANGGRAPH
+
+ $ engineering_philosophy
+   BUILD THINGS THAT WORK. SHIP FAST. ITERATE CONSTANTLY.
+
+ $ next_milestone
+   BUILDING SOMETHING USEFUL
+```
+
+</div>
+
+<br />
+
+---
+
+
