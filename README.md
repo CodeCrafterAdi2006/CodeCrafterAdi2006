@@ -186,44 +186,66 @@
 <tr>
 <td width="50%" align="left">
 
-#### 🚀 AGENT-CORE
-Modular AI agent framework with tool-use, memory, and multi-step reasoning.
+#### 🚀 RICK SOFTWARE ASSISTANT
+An intelligent AI assistant and workflow automation tool for developers.
 
-`Tech:` Python · LangGraph · FastAPI
+`Tech:` Python · AI
 
-[Repository →](#) · [Demo →](#)
+[Repository →](https://github.com/CodeCrafterAdi2006/Rick_Software_Assistant)
 
 </td>
 <td width="50%" align="left">
 
-#### ⚙️ BACKEND-SYS
-High-performance async REST API with task queuing and PostgreSQL persistence.
+#### 🏥 MEDIFLOW AI
+Hackathon project automating medicine schedules and tracking for patients.
 
-`Tech:` Python · FastAPI · PostgreSQL · Docker
+`Tech:` JavaScript · Web
 
-[Repository →](#) · [Demo →](#)
+[Repository →](https://github.com/CodeCrafterAdi2006/MediflowAI) · [Demo →](https://mediflow-ai-kappa.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="left">
 
-#### 🛠️ DEVTOOL-X
-CLI tool that automates repetitive developer workflows with a plugin system.
+#### 🌿 VERDE AND WINE
+Luxury farm-to-table culinary web showcase with smooth transitions & zero layout shift.
 
-`Tech:` Python · Click · Shell
+`Tech:` TypeScript · Next.js · CSS
 
-[Repository →](#) · [Demo →](#)
+[Repository →](https://github.com/CodeCrafterAdi2006/verde_and_wine)
 
 </td>
 <td width="50%" align="left">
 
-#### 🧠 ML-PIPELINE
-End-to-end NLP training and inference pipeline with Hugging Face integration.
+#### 👾 ONE LINE A DAY
+A unique cellular automata-based roguelike game running purely in the browser.
 
-`Tech:` Python · PyTorch · Hugging Face · Docker
+`Tech:` HTML · JavaScript · CSS
 
-[Repository →](#) · [Demo →](#)
+[Repository →](https://github.com/CodeCrafterAdi2006/one-line-a-day) · [Demo →](https://one-line-a-day-fawn.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="left">
+
+#### 🌱 ARISE
+A comprehensive personal development and habit tracking system.
+
+`Tech:` Python
+
+[Repository →](https://github.com/CodeCrafterAdi2006/ARISE)
+
+</td>
+<td width="50%" align="left">
+
+#### 📚 DSA COMPANION
+Automated workflow & AI companion tracking your DSA metrics via Telegram to ace Big Tech interviews.
+
+`Tech:` Python · Telegram API
+
+[Repository →](https://github.com/CodeCrafterAdi2006/DSA-Companion)
 
 </td>
 </tr>
@@ -306,11 +328,12 @@ End-to-end NLP training and inference pipeline with Hugging Face integration.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-CodeCrafterAdi2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeCrafterAdi2006)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-0a5a9830b/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code_crafter2705)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CodeCrafter2006)
+[![Discord](https://img.shields.io/badge/Discord-eveningstar4273__82534-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eragon4273@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://aditya1952-portfolio.vercel.app/)
 
 <br />
 <br />
