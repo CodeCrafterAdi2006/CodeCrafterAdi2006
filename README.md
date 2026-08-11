@@ -267,18 +267,59 @@ Automated workflow & AI companion tracking your DSA metrics via Telegram to ace 
 <td align="left">
 
 <pre>
-  ────────────── ENGINEERING JOURNEY ──────────────
+                    ENGINEERING JOURNEY
+                    ───────────────────
 
-  2025  ──  Started serious software development
-        ──  First AI / LLM experiments
-        ──  Python · C++ · Web fundamentals
-
-  2026  ──  Backend systems & APIs
-        ──  AI agents & LangGraph workflows
-        ──  Open source contributions
-
-  NEXT  ──  Ship something genuinely useful
-        ──  Build in public
+2025
+ │
+ ├── Started taking software development seriously
+ │
+ ├── Python · C++ · DSA fundamentals
+ │
+ ├── Built first small projects
+ │     └─ Snake · CLI tools · URL Shortener
+ │
+ └── Started exploring Web Development
+ │
+ ▼
+2026
+ │
+ ├── Backend & APIs
+ │     └─ FastAPI · SQLite · async systems
+ │
+ ├── AI / LLMs
+ │     └─ Hugging Face · LangChain · LLM applications
+ │
+ ├── Automation
+ │     └─ n8n · workflows · developer tooling
+ │
+ ├── AI Agents
+ │     └─ agentic workflows · multi-agent systems
+ │
+ ├── Built DSA Companion
+ │
+ ├── Started thinking beyond "just making projects"
+ │     └─ system design · architecture · deployment
+ │
+ └── Building a stronger public engineering presence
+       └─ GitHub · projects · content · open source
+ │
+ ▼
+NOW
+ │
+ ├── AI Engineering
+ ├── AI Agents
+ ├── Web Development
+ ├── 2D / 3D Creative Development
+ └── Becoming a stronger all-round engineer
+ │
+ ▼
+NEXT
+ │
+ ├── Ship bigger systems
+ ├── Contribute to Open Source
+ ├── Build in Public
+ └── Turn experiments into things people actually use
 </pre>
 
 </td>
