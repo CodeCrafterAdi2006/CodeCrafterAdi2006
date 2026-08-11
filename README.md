@@ -84,6 +84,26 @@
 
 ---
 
+### ◈ MISSION ACTIVITY
+
+<br />
+
+<div align="center">
+
+<pre>
+ ◈  CONTRIBUTION GRAPH ATTACK  ◈
+</pre>
+
+<br />
+
+<img src="assets/animations/game.gif" alt="Contribution Graph Attack" />
+
+</div>
+
+<br />
+
+---
+
 ### ◈ DEVELOPER STATS
 
 <br />

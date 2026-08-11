@@ -1,0 +1,26 @@
+name: 🚀 Update Contribution Graph Shooter
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # Runs daily at midnight UTC
+  workflow_dispatch:         # Triggerable manually from the Actions tab
+
+permissions:
+  contents: write            # Required: Action must commit the GIF back to the repo
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2     # Required: v2 amends the previous commit to avoid repo bloat
+
+      - name: Generate Space Shooter animation
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'assets/animations/game.gif'
+          strategy: 'random'
+          fps: 12
