@@ -91,12 +91,12 @@
 <div align="center">
 
 <pre>
- ◈  CONTRIBUTION GRAPH ATTACK  ◈
+ ◈  CONTRIBUTION GRAPH SNAKE  ◈
 </pre>
 
 <br />
 
-<img src="assets/animations/game.gif" alt="Contribution Graph Attack" />
+<img src="assets/animations/github-snake-dark.svg" alt="Contribution Graph Snake" />
 
 </div>
 

@@ -1,0 +1,31 @@
+name: 🐍 Update Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # Runs daily at midnight UTC
+  workflow_dispatch:         # Triggerable manually from the Actions tab
+
+permissions:
+  contents: write            # Required: Action must commit the SVG back to the repo
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/animations/github-snake-dark.svg?palette=github-dark&color_snake=#00FF41&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to repository
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update contribution snake'
+          file_pattern: 'assets/animations/github-snake-dark.svg'
