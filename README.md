@@ -82,6 +82,32 @@
 
 <br />
 
+---
+
+### ◈ DEVELOPER STATS
+
+<br />
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center"><img src="https://github-readme-stats.vercel.app/api?username=CodeCrafterAdi2006&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" /></td>
+<td align="center"><img src="https://streak-stats.demolab.com?user=CodeCrafterAdi2006&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" alt="GitHub Streak" /></td>
+</tr>
+</table>
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCrafterAdi2006&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&hide=html,css,jupyter%20notebook&cache_seconds=86400" alt="Top Languages" />
+
+</div>
+
+<br />
+
+---
+
+<br />
 <div align="center">
 <table width="100%">
 <tr>
