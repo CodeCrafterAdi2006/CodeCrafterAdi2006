@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="523" viewBox="0 0 520 523">
+<style>
+  .bg { fill: #0d1117; rx: 8px; ry: 8px; stroke: #30363d; stroke-width: 1.5; }
+  .title { font-family: "Fira Code", monospace; font-size: 10px; fill: #00FF41; font-weight: bold; letter-spacing: 2px; }
+  .ascii { font-family: "Fira Code", "Courier New", monospace; font-size: 10.5px; fill: #00FF41; white-space: pre; }
+  @keyframes matrixGlow {
+    0% { fill: #00FF41; opacity: 0.88; }
+    50% { fill: #39FF14; opacity: 1.0; }
+    100% { fill: #00FF41; opacity: 0.88; }
+  }
+  @keyframes scanBeam {
+    0% { y: 35px; opacity: 0; }
+    10% { opacity: 0.35; }
+    90% { opacity: 0.35; }
+    100% { y: 508px; opacity: 0; }
+  }
+  @keyframes swapFrame1 { 0%, 49.9% { opacity: 1; } 50%, 100% { opacity: 0; } }
+  @keyframes swapFrame2 { 0%, 49.9% { opacity: 0; } 50%, 100% { opacity: 1; } }
+  .frame1 { animation: swapFrame1 0.3s infinite steps(1); }
+  .frame2 { animation: swapFrame2 0.3s infinite steps(1); }
+</style>
+<rect width="520" height="523" class="bg" />
+<text x="20" y="24" class="title">◈ CODECRAFTERADI // LIVE_MATRIX_NODE ◈</text>
+<line x1="20" y1="32" x2="500" y2="32" stroke="#30363d" stroke-width="1" />
+<rect x="20" y="35" width="480" height="4" fill="#00FF41" opacity="0.3" style="animation: scanBeam 4s infinite linear;" />
+<g class="frame1" style="animation-name: swapFrame1;">
+<text x="20" y="48" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                                        '  .                    </text>
+<text x="20" y="60" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                                  .;+##@@%@@@%##=;'             </text>
+<text x="20" y="72" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                               .+#@███████████████@%*='         </text>
+<text x="20" y="84" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                              ;%██@@@@@@@@@@@@@@@@█████=.       </text>
+<text x="20" y="96" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                            '=###@@@██████████████@@@@@█%=.     </text>
+<text x="20" y="108" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           '=#*@@@████████████████████@@@@=.    </text>
+<text x="20" y="120" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                          .+*++#@████████████████████████@█*    </text>
+<text x="20" y="132" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                         .*@;.';+%@@█████████████████████@@@.   </text>
+<text x="20" y="144" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                         +@:  ':=#@@@@@@@█████████████████@█=   </text>
+<text x="20" y="156" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                         #;   ';+#@@@@@@@@@@@█████████████@@+   </text>
+<text x="20" y="168" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                        .+ .:-+*#%%%@%%%%%%@@@████████████@█;   </text>
+<text x="20" y="180" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                        '=;%████@@@%###%@@@@██████████████@@'   </text>
+<text x="20" y="192" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                        .:.'-@@███@###%@█████@@██████████@█@.   </text>
+<text x="20" y="204" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           .;*@@@@█%%%@@@@█@█@███████████@█%    </text>
+<text x="20" y="216" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           .:=@@@@%+%@████@%@@@@█████████@@%'   </text>
+<text x="20" y="228" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           :=#%%%+'=@@@@@██@@@@██████████@@@'   </text>
+<text x="20" y="240" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                          .-+***- .#%@█@@@@@@@@@@@@@@████@█#    </text>
+<text x="20" y="252" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                          .;+**+' -*#@@@@####%%%%%@@@█@█@++:    </text>
+<text x="20" y="264" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           ;+##==*=#@@@@█%#####%@@@████@@-      </text>
+<text x="20" y="276" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                        .  '=***#@@██@███@%%%%%@@@████@@█'      </text>
+<text x="20" y="288" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           .=#%##%@@@@███@@@@@@@██████@█=       </text>
+<text x="20" y="300" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           .=@#=+*#%@@@██████@@@█████@█*        </text>
+<text x="20" y="312" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                            :=;;=*%%%%@@██@@█@@██████@@*'       </text>
+<text x="20" y="324" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                          .  :-+#@@██████@@@████████████@=      </text>
+<text x="20" y="336" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                        .=%; .:=*%@@@@███@█████████████@@█=     </text>
+<text x="20" y="348" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                       =@██@*++*@██@@███████████████████@@@'    </text>
+<text x="20" y="360" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                     ;%██@@@#*████████████████████████████@#  . </text>
+<text x="20" y="372" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                 ..;#██@@@@**-+%@█████████████████████████@█**%#</text>
+<text x="20" y="384" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                 .=%%@@@@█+#@*+#%@@@@@@████████████████████@@###</text>
+<text x="20" y="396" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">            .:...;+*%@@@█#'@█%%@████████@@@@████████████████@%%%</text>
+<text x="20" y="408" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">           :-. .-=%███@█#;.;==*#%%%%%###%%@@████████████████@@@@</text>
+<text x="20" y="420" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">          ;;. *=*%█@@@█%+: ..':;;;-===+#@@@@████████████████@@██</text>
+<text x="20" y="432" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">         ;; :#@=@@@█@█@++'    .':;;-;-=#@@@█████████████████@@██</text>
+<text x="20" y="444" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">        :='+██%*█@██@@*+- ...''';;:.'+%█@███████████████████████</text>
+<text x="20" y="456" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">       .-=%█*'@@███@█%*+:.'   ':'  :#██@█████████████████@██████</text>
+<text x="20" y="468" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">       *=@%- .%█@█@█@**+'.  .''  '+@█@@███████████████@█%#@█████</text>
+<text x="20" y="480" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">      '@@+:.''+█@█@█%**;  .''  :*@██@████████████████@@@+#@@████</text>
+<text x="20" y="492" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">      ;█- .'' *█@@█@##+.'::' ;%███@@█████████████████@@%%@██████</text>
+<text x="20" y="504" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">      -= ..'. %█@@█@##;:;:. *██@@@█████@@████████████@@█████████</text>
+</g>
+<g class="frame2" style="animation-name: swapFrame2;">
+<text x="20" y="48" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                                        &quot;  ,                    </text>
+<text x="20" y="60" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                                  ,~?&amp;&amp;$$M$$$M&amp;&amp;x~&quot;             </text>
+<text x="20" y="72" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                               ,?&amp;$███████████████$M*x&quot;         </text>
+<text x="20" y="84" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                              ~M██$$$$$$$$$$$$$$$$█████x,       </text>
+<text x="20" y="96" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                            &quot;x&amp;&amp;&amp;$$$██████████████$$$$$█Mx,     </text>
+<text x="20" y="108" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           &quot;x&amp;*$$$████████████████████$$$$x,    </text>
+<text x="20" y="120" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                          ,?*??&amp;$████████████████████████$█*    </text>
+<text x="20" y="132" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                         ,*$~,&quot;~?M$$█████████████████████$$$,   </text>
+<text x="20" y="144" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                         ?$^  &quot;^x&amp;$$$$$$$█████████████████$█x   </text>
+<text x="20" y="156" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                         &amp;~   &quot;~?&amp;$$$$$$$$$$$█████████████$$?   </text>
+<text x="20" y="168" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                        ,? ,^=?*&amp;MMM$MMMMMM$$$████████████$█~   </text>
+<text x="20" y="180" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                        &quot;x~M████$$$M&amp;&amp;&amp;M$$$$██████████████$$&quot;   </text>
+<text x="20" y="192" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                        ,^,&quot;=$$███$&amp;&amp;&amp;M$█████$$██████████$█$,   </text>
+<text x="20" y="204" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           ,~*$$$$█MMM$$$$█$█$███████████$█M    </text>
+<text x="20" y="216" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           ,^x$$$$M?M$████$M$$$$█████████$$M&quot;   </text>
+<text x="20" y="228" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           ^x&amp;MMM?&quot;x$$$$$██$$$$██████████$$$&quot;   </text>
+<text x="20" y="240" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                          ,=?***= ,&amp;M$█$$$$$$$$$$$$$$████$█&amp;    </text>
+<text x="20" y="252" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                          ,~?**?&quot; =*&amp;$$$$&amp;&amp;&amp;&amp;MMMMM$$$█$█$??^    </text>
+<text x="20" y="264" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           ~?&amp;&amp;xx*x&amp;$$$$█M&amp;&amp;&amp;&amp;&amp;M$$$████$$=      </text>
+<text x="20" y="276" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                        ,  &quot;x***&amp;$$██$███$MMMMM$$$████$$█&quot;      </text>
+<text x="20" y="288" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           ,x&amp;M&amp;&amp;M$$$$███$$$$$$$██████$█x       </text>
+<text x="20" y="300" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                           ,x$&amp;x?*&amp;M$$$██████$$$█████$█*        </text>
+<text x="20" y="312" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                            ^x~~x*MMMM$$██$$█$$██████$$*&quot;       </text>
+<text x="20" y="324" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                          ,  ^=?&amp;$$██████$$$████████████$x      </text>
+<text x="20" y="336" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                        ,xM~ ,^x*M$$$$███$█████████████$$█x     </text>
+<text x="20" y="348" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                       x$██$*??*$██$$███████████████████$$$&quot;    </text>
+<text x="20" y="360" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                     ~M██$$$&amp;*████████████████████████████$&amp;  , </text>
+<text x="20" y="372" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                 ,,~&amp;██$$$$**=?M$█████████████████████████$█**M&amp;</text>
+<text x="20" y="384" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">                 ,xMM$$$$█?&amp;$*?&amp;M$$$$$$████████████████████$$&amp;&amp;&amp;</text>
+<text x="20" y="396" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">            ,^,,,~?*M$$$█&amp;&quot;$█MM$████████$$$$████████████████$MMM</text>
+<text x="20" y="408" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">           ^=, ,=xM███$█&amp;~,~xx*&amp;MMMMM&amp;&amp;&amp;MM$$████████████████$$$$</text>
+<text x="20" y="420" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">          ~~, *x*M█$$$█M?^ ,,&quot;^~~~=xxx?&amp;$$$$████████████████$$██</text>
+<text x="20" y="432" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">         ~~ ^&amp;$x$$$█$█$??&quot;    ,&quot;^~~=~=x&amp;$$$█████████████████$$██</text>
+<text x="20" y="444" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">        ^x&quot;?██M*█$██$$*?= ,,,&quot;&quot;&quot;~~^,&quot;?M█$███████████████████████</text>
+<text x="20" y="456" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">       ,=xM█*&quot;$$███$█M*?^,&quot;   &quot;^&quot;  ^&amp;██$█████████████████$██████</text>
+<text x="20" y="468" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">       *x$M= ,M█$█$█$**?&quot;,  ,&quot;&quot;  &quot;?$█$$███████████████$█M&amp;$█████</text>
+<text x="20" y="480" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">      &quot;$$?^,&quot;&quot;?█$█$█M**~  ,&quot;&quot;  ^*$██$████████████████$$$?&amp;$$████</text>
+<text x="20" y="492" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">      ~█= ,&quot;&quot; *█$$█$&amp;&amp;?,&quot;^^&quot; ~M███$$█████████████████$$MM$██████</text>
+<text x="20" y="504" class="ascii" style="animation: matrixGlow 3s infinite ease-in-out;">      =x ,,&quot;, M█$$█$&amp;&amp;~^~^, *██$$$█████$$████████████$$█████████</text>
+</g>
+</svg>
