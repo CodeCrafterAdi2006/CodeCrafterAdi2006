@@ -93,7 +93,7 @@
 <table width="100%">
 <tr>
 <td align="center"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CodeCrafterAdi2006&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&rank_icon=github&cache_seconds=86400&v=3" alt="GitHub Stats" /></td>
-<td align="center"><img src="https://streak-stats.demolab.com?user=CodeCrafterAdi2006&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&v=3" alt="GitHub Streak" /></td>
+<td align="center"><img src="https://streak-stats.demolab.com?user=CodeCrafterAdi2006&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&cb=2" alt="GitHub Streak" /></td>
 </tr>
 </table>
 
