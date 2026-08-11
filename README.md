@@ -6,7 +6,7 @@
 
 <div align="center">
 
-```text
+<pre>
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║   ██████╗ ██████╗ ██████╗ ███████╗                  ║
@@ -23,7 +23,7 @@
 ║  AI ENGINEER  ·  BUILDER  ·  SYSTEMS THINKER         ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
-```
+</pre>
 
 </div>
 
@@ -44,9 +44,9 @@
 <br />
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="left">
+<table width="100%">
+<tr>
+<td align="left">
 
 ### ◈ CURRENTLY BUILDING & EXPLORING
 
@@ -75,17 +75,17 @@
 #### 🟢 OPEN SOURCE
 > **Learning in Public** · Code Experimentation · Active Contributions
 
-      </td>
-    </tr>
-  </table>
+</td>
+</tr>
+</table>
 </div>
 
 <br />
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="left">
+<table width="100%">
+<tr>
+<td align="left">
 
 <pre>
  $ whoami
@@ -101,9 +101,9 @@
    BUILD THINGS THAT WORK. SHIP FAST. ITERATE CONSTANTLY.
 </pre>
 
-      </td>
-    </tr>
-  </table>
+</td>
+</tr>
+</table>
 </div>
 
 <br />
