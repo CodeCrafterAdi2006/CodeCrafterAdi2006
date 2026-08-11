@@ -215,6 +215,39 @@ End-to-end NLP training and inference pipeline with Hugging Face integration.
 
 ---
 
+### ◈ ENGINEERING JOURNEY
+
+<br />
+
+<div align="center">
+<table width="100%">
+<tr>
+<td align="left">
+
+<pre>
+  ────────────── ENGINEERING JOURNEY ──────────────
+
+  2025  ──  Started serious software development
+        ──  First AI / LLM experiments
+        ──  Python · C++ · Web fundamentals
+
+  2026  ──  Backend systems & APIs
+        ──  AI agents & LangGraph workflows
+        ──  Open source contributions
+
+  NEXT  ──  Ship something genuinely useful
+        ──  Build in public
+</pre>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br />
+
+---
+
 <br />
 <div align="center">
 <table width="100%">
