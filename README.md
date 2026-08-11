@@ -297,5 +297,31 @@ End-to-end NLP training and inference pipeline with Hugging Face integration.
 
 ---
 
+<br />
+
+### ◈ CONNECT
+
+<br />
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-CodeCrafterAdi2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeCrafterAdi2006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](#)
+
+<br />
+<br />
+
+![Last Commit](https://img.shields.io/github/last-commit/CodeCrafterAdi2006/CodeCrafterAdi2006?style=flat-square&color=00FF41&label=last+updated)
+
+</div>
+
+<br />
+
+---
+
 
 
