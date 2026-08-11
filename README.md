@@ -156,6 +156,65 @@
 
 ---
 
+### ◈ FEATURED PROJECTS
+
+<br />
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" align="left">
+
+#### 🚀 AGENT-CORE
+Modular AI agent framework with tool-use, memory, and multi-step reasoning.
+
+`Tech:` Python · LangGraph · FastAPI
+
+[Repository →](#) · [Demo →](#)
+
+</td>
+<td width="50%" align="left">
+
+#### ⚙️ BACKEND-SYS
+High-performance async REST API with task queuing and PostgreSQL persistence.
+
+`Tech:` Python · FastAPI · PostgreSQL · Docker
+
+[Repository →](#) · [Demo →](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="left">
+
+#### 🛠️ DEVTOOL-X
+CLI tool that automates repetitive developer workflows with a plugin system.
+
+`Tech:` Python · Click · Shell
+
+[Repository →](#) · [Demo →](#)
+
+</td>
+<td width="50%" align="left">
+
+#### 🧠 ML-PIPELINE
+End-to-end NLP training and inference pipeline with Hugging Face integration.
+
+`Tech:` Python · PyTorch · Hugging Face · Docker
+
+[Repository →](#) · [Demo →](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+---
+
 <br />
 <div align="center">
 <table width="100%">
